@@ -1,0 +1,28 @@
+body,html{
+  margin:0;
+}
+
+.c2 {
+    display: flex;
+}
+
+.c1 {
+    width: 500px;
+    height: 500px;
+    flex-direction: column;
+}
+
+.c2 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.c3 {
+    flex: 1;
+}
+
+img.c4 {
+    width: 100%;
+    height: 100%;
+}
